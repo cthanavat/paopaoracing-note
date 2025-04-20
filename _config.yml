@@ -2,16 +2,5 @@
 title: Paopao Racing Notebook
 description: Bookmark this to keep an eye on my project updates!
 
-# Site settings
-url: https://cthanavat.github.io # Replace <username> with your GitHub username
-baseurl: "" # Leave empty for GitHub Pages
-
-# Author settings
-author:
-  name: cthana
-  bio: A short bio about yourself
-  location: Your City, Country
-  email: ch.thanavat@gmail.com
-
 # Theme settings
 theme: minimal-mistakes-jekyll
