@@ -1,3 +1,62 @@
 theme: jekyll-theme-minimal
 title: Paopao Racing Notebook
 description: Bookmark this to keep an eye on my project updates!
+
+# Site settings
+title: Your Site Title
+description: A short description of your site
+url: https://cthanavat.github.io  # Replace <username> with your GitHub username
+baseurl: ""                       # Leave empty for GitHub Pages
+
+# Author settings
+author:
+  name: cthana
+  avatar: assets/images/avatar.jpg # Path to your avatar image
+  bio: A short bio about yourself
+  location: Your City, Country
+  email: ch.thanavat@gmail.com
+  links:
+    - label: GitHub
+      icon: fab fa-github
+      url: https://github.com/<username>
+    - label: Twitter
+      icon: fab fa-twitter
+      url: https://twitter.com/<username>
+
+# Theme settings
+theme: minimal-mistakes-jekyll
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Collections
+collections:
+  posts:
+    output: true
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+
+# Social sharing options
+share: true
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Pagination settings
+paginate: 5
+
+# Google Analytics (optional)
+google_analytics: UA-XXXXXXXX-X # Replace with your tracking ID

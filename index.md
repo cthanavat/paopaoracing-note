@@ -11,4 +11,6 @@ title: สวัสดี
 - ฟรี
 - ไม่มีโค้ดเยอะ
 
+[[product]]
+
 ![นี่คือรูป](assets/images/my-photo.jpg)
