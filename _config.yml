@@ -1,12 +1,10 @@
-theme: jekyll-theme-minimal
+# Site Name
 title: Paopao Racing Notebook
 description: Bookmark this to keep an eye on my project updates!
 
 # Site settings
-title: Your Site Title
-description: A short description of your site
-url: https://cthanavat.github.io  # Replace <username> with your GitHub username
-baseurl: ""                       # Leave empty for GitHub Pages
+url: https://cthanavat.github.io # Replace <username> with your GitHub username
+baseurl: "" # Leave empty for GitHub Pages
 
 # Author settings
 author:
